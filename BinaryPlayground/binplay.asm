@@ -7,6 +7,7 @@
 ; binary coded decimal.
 ;
 ; https://youtu.be/wxeHAM090G0
+; https://cocotownretro.wordpress.com/2024/07/18/binary-playground/
 ;
 ; ---------------------------------------------------------------
 
