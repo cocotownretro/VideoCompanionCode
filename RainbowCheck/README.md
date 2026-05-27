@@ -10,5 +10,4 @@ CHEKPLUS.ASM: Disassembled & commented Rainbow Check Plus source code
 
 More info:
 
-TODO
-https://cocotownretro.wordpress.com/
+https://cocotownretro.wordpress.com/2026/05/27/rainbow-magazines-check-plus-solves-typos/
