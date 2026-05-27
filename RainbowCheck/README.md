@@ -1,10 +1,10 @@
 This folder contains the source code discussed in the Rainbow Check video:
 
-TODO
+https://youtu.be/YRwQyLVAUqs
 
-CHECK.BAS: Original Rainbow Check BASIC driver
+CHECK.BAS: Original Rainbow Check BASIC driver, published in Rainbow Magazine, January 1983.
 
-CHEKPLUS.BAS: Updated Rainbow Check Plus BASIC driver
+CHEKPLUS.BAS: Updated Rainbow Check Plus BASIC driver, published in Rainbow Magaine, February 1984.
 
 CHEKPLUS.ASM: Disassembled & commented Rainbow Check Plus source code
 
